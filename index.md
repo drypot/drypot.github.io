@@ -8,9 +8,7 @@ Kyuhyun Park
 1974
 {:class="vspace"}
 
-Web Developer, Photographer, Cyclist
-{:class="vspace"}
-
+Web Developer, Photographer, Cyclist.  
 Living in Korea.
 {:class="vspace"}
 

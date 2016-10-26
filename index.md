@@ -5,11 +5,13 @@ class: page-content-index
 
 박규현  
 Kyuhyun Park  
-1974  
-Living in Korea.
+1974
 {:class="vspace"}
 
 Web Developer, Photographer, Cyclist
+{:class="vspace"}
+
+Living in Korea.
 {:class="vspace"}
 
 ### Social

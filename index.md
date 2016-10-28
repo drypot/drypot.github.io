@@ -19,12 +19,17 @@ drypot@gmail.com\\
 <https://www.facebook.com/drypot>{:target="_blank"}
 {:class="vspace"}
 
-### Photos
+### Photo
 
 <https://rapixel.com/drypot>{:target="_blank"}\\
 <https://raysoda.com/aki>{:target="_blank"}\\
 <https://osoky.com/drypot>{:target="_blank"}\\
 <https://drypot.com/drypot>{:target="_blank"}
+{:class="vspace"}
+
+### Video
+
+<https://www.youtube.com/user/drypot74>{:target="_blank"}
 {:class="vspace"}
 
 ### Cycling

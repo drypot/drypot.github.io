@@ -21,8 +21,8 @@ drypot@gmail.com\\
 
 ### Photo
 
+<https://raysoda.com/drypot>{:target="_blank"}\\
 <https://rapixel.com/drypot>{:target="_blank"}\\
-<https://raysoda.com/aki>{:target="_blank"}\\
 <https://osoky.com/drypot>{:target="_blank"}\\
 <https://drypot.com/drypot>{:target="_blank"}
 {:class="vspace"}

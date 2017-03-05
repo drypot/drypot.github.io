@@ -40,8 +40,13 @@ drypot@gmail.com\\
 
 ### Code
 
-<https://github.com/drypot>{:target="_blank"}\\
-<https://drypot.github.io/writings>{:target="_blank"}
+<https://github.com/drypot>{:target="_blank"}
+{:class="vspace"}
+
+### Writing
+
+<https://sobeaut.com/drypot>{:target="_blank"}\\
+<https://drypot.github.io/writings>{:target="_blank"}\\
 {:class="vspace"}
 
 ### This Page

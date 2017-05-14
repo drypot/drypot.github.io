@@ -45,7 +45,6 @@ drypot@gmail.com\\
 
 ### Writing
 
-<https://sobeaut.com/drypot>{:target="_blank"}\\
 <https://drypot.github.io/writings>{:target="_blank"}
 {:class="vspace"}
 

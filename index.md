@@ -45,6 +45,7 @@ drypot@gmail.com\\
 
 ### Writing
 
+<https://drypot.wordpress.com>{:target="_blank"}\\
 <https://drypot.github.io/writings>{:target="_blank"}
 {:class="vspace"}
 

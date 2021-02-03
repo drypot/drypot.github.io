@@ -1,3 +1,3 @@
-# Drypot Profile Page
+# Drypot Hub
 
-Read on [https://drypot.github.io](https://drypot.github.io).
+View on [https://drypot.github.io](https://drypot.github.io).
